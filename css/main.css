@@ -153,7 +153,7 @@ body {
 .jumbotron {
 	background: var(--tmpl-main-color);
 	background-blend-mode: multiply;
-	background-image: url('../img/wellness-589773.jpg');
+	background-image: url('../img/jumbo01.jpg');
 	background-size: 100%;
 	background-position: center;
 	display: flex;
@@ -170,7 +170,7 @@ body {
 	margin-top: 1em;
 	background-blend-mode: overlay;
 	background: var(--tmpl-back-color-light);
-	background-image: url('../img/relaxation-686392.jpg');
+	background-image: url('../img/jumbo02.jpg');
 	background-size: 100%;
 	background-position: center;
 	display: flex;
